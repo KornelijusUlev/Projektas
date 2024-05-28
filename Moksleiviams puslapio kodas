@@ -1,0 +1,81 @@
+<!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg","id":166,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":1872,"minHeightUnit":"px","metadata":{"name":"Intro","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40);min-height:1872px"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-166" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:heading -->
+<h2 class="wp-block-heading">Nuo ko pradėti ? </h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Jei ruošiesi studijuoti mediciną ir vėliau tapti karo mediku, turėtum atkreipti dėmesį į kelis svarbius dalykus:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Nuspręskite dėl studijų krypties</strong>: Nuspręskite, ar norite studijuoti mediciną arba odontologiją. Įsitikinkite, kad jūsų pasirinkta universiteto programa suteiks jums reikalingą įgūdžių ir žinių bazę.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Pasiruoškite stipriai akademiškai</strong>: Geros pažymiai ir gerai pasiruošimas egzaminams yra svarbūs, kad būtumėte priimti į medicinos ar odontologijos studijas.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Susipažinkite su karinės medicinos karjera</strong>: Supraskite, kas tai yra ir kokie įsipareigojimai tai reikalauja. Perskaitykite apie karo medikų atsakomybes ir galimybes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Kalbėkite su dabartiniais karo medikais</strong>: Jei įmanoma, pasikalbėkite su žmonėmis, kurie jau yra karo medikai. Jie gali suteikti naudingos informacijos apie profesijos privalumus ir iššūkius.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Dalyvaukite karo medicinos susijusiose veiklose</strong>: Jei turite galimybę, dalyvaukite seminaruose, konferencijose ar kitose renginyse, susijusiose su karo medicina. Tai padės gilinti jūsų supratimą apie šią sritį.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Ruoškitės fiziniškai ir psichologiškai</strong>: Karo medicinos darbas gali būti fiziškai ir emociniškai išsekantis. Ruoškitės sportuodami ir praktikuodamiesi būti atspirties tašku sunkiuose momentuose.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Išbandykite savanorišką darbą ar praktiką</strong>: Jei įmanoma, įgykite patirties dirbdami savanoriškai ar praktikuodamiesi medicinos srityje. Tai padės įgyti praktinių įgūdžių ir patirties.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Kokias studijas reikia pabaigti norint būti karo mediku?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Norint tapti karo mediku Lietuvos kariuomenėje, reikia studijuoti mediciną Vilniaus Universitete arba Lietuvos sveikatos mokslų universitete. Studentai iš šių universitetų medicinos ar odontologijos fakultetų turi galimybę dalyvauti Jaunesniųjų karininkų vadų mokymuose, skirtuose medicinos studentams. Šie mokymai trunka trejus mokslo metus ir apima intensyvų ir specializuotą mokymo procesą, kurio metu studentai įgyja medicininių žinių ir karinių įgūdžių, būtinų darbui karinėje aplinkoje. Baigę mokymus ir sėkmingai išlaikę egzaminus, studentai gauna karo medicinos gydytojo (medicininės paramos vieneto vado) kvalifikaciją ir jaunesniojo atsargos karininko laipsnį.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"48px"} -->
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":102,"width":"320px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/lsmu.png?w=225" alt="" class="wp-image-102" style="width:320px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":101,"width":"272px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/vu.png?w=917" alt="" class="wp-image-101" style="width:272px;height:auto" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:cover -->
