@@ -1,7 +1,13 @@
 <!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg","id":166,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":1872,"minHeightUnit":"px","metadata":{"name":"Intro","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40);min-height:1872px"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-166" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:heading -->
+<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40);min-height:1872px"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-166" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Nuo ko pradėti ? </h2>
 <!-- /wp:heading -->
+
+<!-- wp:image {"id":322,"width":"164px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-37.png?w=225" alt="" class="wp-image-322" style="width:164px;height:auto" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity" />
