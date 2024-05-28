@@ -1,0 +1,277 @@
+<!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg-3.jpg","id":171,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":3507,"minHeightUnit":"px","metadata":{"name":"Apie puslapis","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40);min-height:3507px"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-171" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg-3.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Karo medicina"},"align":"full","style":{"spacing":{"padding":{"top":"calc( 0.5 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))","bottom":"calc( 0.5 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))","left":"var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-left, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal))","right":"var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal))"},"margin":{"top":"0","bottom":"0"}}},"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull wp-embed-aspect-16-9 wp-has-aspect-ratio" style="margin-top:0;margin-bottom:0;padding-top:calc( 0.5 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)));padding-right:var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal));padding-bottom:calc( 0.5 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)));padding-left:var(--wp--style--root--padding-left, var(--wp--custom--gap--horizontal))"><!-- wp:heading {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<h2 class="wp-block-heading wp-embed-aspect-16-9 wp-has-aspect-ratio">Kas yra karo medicina?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity wp-embed-aspect-16-9 wp-has-aspect-ratio" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Karo medicina - svarbi Lietuvos kariuomenės dalis, užtikrinanti veiklos lygį ir pasitikėjimą visuomenėje. Tai apima Karo medicinos centrą Kaune ir pirminės karių sveikatos priežiūros centrų tinklą. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":124,"width":"246px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/rer.jpg?w=245" alt="" class="wp-image-124" style="width:246px;height:auto" /><figcaption class="wp-element-caption"><em><strong>Karo medikai – didžiausiose NATO medicinos pratybose</strong></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":110,"width":"308px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/asdads.jpg?w=275" alt="" class="wp-image-110" style="width:308px;height:auto" /><figcaption class="wp-element-caption"><strong><em>Lietuvos karo medikai dalyvauja didžiausiose pratybose NATO istorijoje</em></strong></figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"37px"} -->
+<div style="height:37px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Ši tarnyba ne tik teikia antrines sveikatos paslaugas, bet ir paramą kariuomenės padaliniams tiek Lietuvoje, tiek tarptautinėse operacijose. Karo medicinos mokymo centras yra Pabaltijo regiono lyderis, pelnęs aukštus įvertinimus už gilias karo medicinos tradicijas. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":120,"width":"319px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/asssssss.jpg?w=276" alt="" class="wp-image-120" style="width:319px;height:auto" /><figcaption class="wp-element-caption"><em><strong>Karo medicinos tarptautinė konferencija</strong></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":123,"width":"310px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/za.jpg?w=275" alt="" class="wp-image-123" style="width:310px;height:auto" /><figcaption class="wp-element-caption"><em><strong>Karo medikai iš Lietuvos dalyvavo tarptautinėse pratybose Vokietijoje</strong></em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"18px","width":"0px","style":{"layout":{"flexSize":"18px","selfStretch":"fixed"}}} -->
+<div style="height:18px;width:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"67px"} -->
+<div style="height:67px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Karo medikai dalyvauja ekstremalių situacijų sprendime ir teikia psichologinę pagalbą. Šios tarnybos struktūra atitinka pagrindinius uždavinius, tokius kaip sveikatinimo veikla, medicinos priemonių aprūpinimas ir psichologinė pagalba. Tai esminė karinės struktūros dalis, užtikrinanti kariuomenės efektyvumą ir gebėjimus kovoje.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=7q3_d1GK6cg\u0026amp;ab_channel=7Kaunodienos","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=7q3_d1GK6cg&amp;ab_channel=7Kaunodienos
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"calc( 0.25 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))"} -->
+<div style="height:calc( 0.25 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)))" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Patirtys"},"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio","layout":{"type":"constrained"}} -->
+<div class="wp-block-group wp-embed-aspect-16-9 wp-has-aspect-ratio"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Karo medikų patirtys</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"37px","width":"0px","style":{"layout":[]}} -->
+<div style="height:37px;width:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Karo mediko vardas pavardė</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kiek laiko yra karom medikai.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kokius apdovanojimus turi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kaip atrodo karo mediko kasdienybė</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:image {"id":50,"width":"232px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/images.png?w=248" alt="" class="wp-image-50" style="width:232px;height:auto" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"width":"0px","style":{"layout":[]}} -->
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Karo mediko vardas pavardė</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kiek laiko yra karom medikai.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kokius apdovanojimus turi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kaip atrodo karo mediko kasdienybė</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ką įsimintiniausio atsimena iš tarnybos.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:image {"id":50,"width":"237px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/images.png?w=248" alt="" class="wp-image-50" style="width:237px;height:auto" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"width":"0px","style":{"layout":[]}} -->
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Karo mediko vardas pavardė</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kiek laiko yra karom medikai.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kokius apdovanojimus turi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kaip atrodo karo mediko kasdienybė</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ką įsimintiniausio atsimena iš tarnybos.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:image {"id":50,"width":"238px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/images.png?w=248" alt="" class="wp-image-50" style="width:238px;height:auto" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Konfliktai"},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Karo medicinos vaidmuo šiuolaikiniuose konfliktuose</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Šiuolaikinės karinės operacijos</strong>: Karo medicinos specialistai yra svarbūs dalis šiuolaikinių karinių operacijų, suteikdami gyvybiškai svarbią medicininę pagalbą sužeistiems kovojančiųjų.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":303,"width":"363px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-29.png?w=1024" alt="" class="wp-image-303" style="width:363px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":306,"width":"343px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-32.png?w=1024" alt="" class="wp-image-306" style="width:343px;height:auto" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Istorija"},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Karo medicinos istorinė raida</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Senovės laikai</strong>: Karo medicinos istorija siekia senovės laikų, kai žmonės naudojo primityvius metodus ir įrankius gydyti sužeidimus ir ligas.<br><strong>Vystymasis</strong>: Nuo antikos laikų iki šių dienų karo medicinos sritis patyrė didelę raidą, įskaitant žymius atradimus ir inovacijas, tokius kaip antisepsis, anestezija, kraujo transfuzija ir chirurgija.<br><strong>Karinės operacijos</strong>: Karo medicina pastaraisiais šimtmečiais buvo išplėsta ir tobulinta dėl padidėjusio kariuomenės judumo ir technologijų plėtros.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=29vBQF3L-ns\u0026amp;ab_channel=ColumbiaUniversityDepartmentofSurgery","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=29vBQF3L-ns&amp;ab_channel=ColumbiaUniversityDepartmentofSurgery
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Įranga"},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Įranga ir technologijos</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Naujausios inovacijos</strong>: Naujausios medicinos technologijos ir įrangos, tokios kaip lazeriai, telemedicina, robotika ir diagnozavimo prietaisai, leidžia karo medicinos specialistams teikti aukščiausio lygio gydymą ir pirmąją pagalbą sužeistiems.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":312,"width":"623px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-36.png?w=500" alt="" class="wp-image-312" style="width:623px;height:auto" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":311,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-35.png?w=800" alt="" class="wp-image-311" /><figcaption class="wp-element-caption"><em>Karo mediko įranga antrojo pasaulinio karo metu</em></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"DUK"},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">D.U.K</h2>
+<!-- /wp:heading -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>1.Klausimas</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>dasdabsdsftygbuferghj</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>2.Klausimas</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>dasdabsdsftygbuferghj</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>3 Klausimas</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p>asdddddddd</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
