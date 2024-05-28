@@ -94,10 +94,6 @@ https://www.youtube.com/watch?v=7q3_d1GK6cg&amp;ab_channel=7Kaunodienos
 
 <!-- wp:paragraph -->
 <p>Kaip atrodo karo mediko kasdienybė</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -177,12 +173,12 @@ https://www.youtube.com/watch?v=7q3_d1GK6cg&amp;ab_channel=7Kaunodienos
 
 <!-- wp:group {"metadata":{"name":"Konfliktai"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
-<h2 class="wp-block-heading"><strong>Karo medicinos vaidmuo šiuolaikiniuose konfliktuose</strong></h2>
+<h2 class="wp-block-heading"><strong>Karo medicina šiuolaikiniuose konfliktuose</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Šiuolaikinės karinės operacijos</strong>: Karo medicinos specialistai yra svarbūs dalis šiuolaikinių karinių operacijų, suteikdami gyvybiškai svarbią medicininę pagalbą sužeistiems kovojančiųjų.</li>
+<li><strong>Šiuolaikinės karinės operacijos</strong>: Karo medicinos specialistai yra svarbūs dalis šiuolaikinių karinių operacijų, suteikdami gyvybiškai svarbią medicininę pagalbą sužeistiems kariams.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -208,7 +204,15 @@ https://www.youtube.com/watch?v=7q3_d1GK6cg&amp;ab_channel=7Kaunodienos
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Senovės laikai</strong>: Karo medicinos istorija siekia senovės laikų, kai žmonės naudojo primityvius metodus ir įrankius gydyti sužeidimus ir ligas.<br><strong>Vystymasis</strong>: Nuo antikos laikų iki šių dienų karo medicinos sritis patyrė didelę raidą, įskaitant žymius atradimus ir inovacijas, tokius kaip antisepsis, anestezija, kraujo transfuzija ir chirurgija.<br><strong>Karinės operacijos</strong>: Karo medicina pastaraisiais šimtmečiais buvo išplėsta ir tobulinta dėl padidėjusio kariuomenės judumo ir technologijų plėtros.</li>
+<li><strong>Senovės laikai</strong>: Karo medicinos istorija siekia senovės laikų, kai žmonės naudojo primityvius metodus ir įrankius gydyti sužeidimus ir ligas.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Vystymasis</strong>: Nuo antikos laikų iki šių dienų karo medicinos sritis patyrė didelę raidą, įskaitant žymius atradimus ir inovacijas, tokius kaip antisepsis, anestezija, kraujo transfuzija ir chirurgija.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Karinės operacijos</strong>: Karo medicina pastaraisiais šimtmečiais buvo išplėsta ir tobulinta dėl padidėjusio kariuomenės ir technologijų plėtros.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
