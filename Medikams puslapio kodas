@@ -1,7 +1,7 @@
-<!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg-2.jpg","id":169,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeightUnit":"px","metadata":{"name":"Intro","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40)"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-169" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg-2.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg-2.jpg","id":169,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeightUnit":"px","metadata":{"name":"Turinys","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40)"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-169" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg-2.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Kaip tapti karo mediku ?"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
-<h2 class="wp-block-heading"><strong>Kaip tapti karo mediku</strong></h2>
+<h2 class="wp-block-heading"><strong>Kaip tapti karo mediku</strong> ?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
@@ -12,30 +12,30 @@
 <!-- wp:list-item -->
 <li><strong>Jaunesniųjų karininkų vadų kursai</strong>: Daugelis šių kursų skirtos paruošti jau turinčius medicininį išsilavinimą medikus, suteikiant karinį pasirengimą.</li>
 <!-- /wp:list-item --></ol>
-<!-- /wp:list --></div>
-<!-- /wp:group -->
+<!-- /wp:list -->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":254,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-5.png?w=259" alt="" class="wp-image-254"/></figure>
+<figure class="wp-block-image size-large"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-5.png?w=259" alt="" class="wp-image-254" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":255,"width":"263px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-6.png?w=220" alt="" class="wp-image-255" style="width:263px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-6.png?w=220" alt="" class="wp-image-255" style="width:263px;height:auto" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Kur vyksta JKVM?"},"align":"wide","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading -->
 <h2 class="wp-block-heading"><strong>Kur vyksta JKVM?</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<hr class="wp-block-separator has-alpha-channel-opacity" />
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
@@ -74,14 +74,14 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></li>
 <!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group -->
+<!-- /wp:list -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Specializacijos galimybės"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading"><strong>Specializacijos galimybės</strong></h2>
 <!-- /wp:heading -->
@@ -100,14 +100,14 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=QAruG9QaUXg&amp;ab_channel=MedSchoolInsiders
 </div></figure>
-<!-- /wp:embed --></div>
-<!-- /wp:group -->
+<!-- /wp:embed -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Tarptautinės misijos ir mokymai:"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading"><strong>Tarptautinės misijos ir mokymai</strong>:</h2>
 <!-- /wp:heading -->
@@ -120,26 +120,26 @@ https://www.youtube.com/watch?v=QAruG9QaUXg&amp;ab_channel=MedSchoolInsiders
 <!-- wp:list-item -->
 <li><strong>Mokymai užsienyje</strong>: Galimybė dalyvauti specializuotuose mokymuose ir kursuose užsienio šalyse, kurie padeda tobulinti specifinius įgūdžius.</li>
 <!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group -->
+<!-- /wp:list -->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":292,"width":"258px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-26.png?w=300" alt="" class="wp-image-292" style="width:258px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-26.png?w=300" alt="" class="wp-image-292" style="width:258px;height:auto" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":290,"width":"253px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-25.png?w=1024" alt="" class="wp-image-290" style="width:253px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-25.png?w=1024" alt="" class="wp-image-290" style="width:253px;height:auto" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Atlyginimas"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading"><strong>Atlyginimas</strong></h2>
 <!-- /wp:heading -->
@@ -156,18 +156,18 @@ https://www.youtube.com/watch?v=QAruG9QaUXg&amp;ab_channel=MedSchoolInsiders
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":264,"width":"602px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-12.png?w=299" alt="" class="wp-image-264" style="width:602px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-12.png?w=299" alt="" class="wp-image-264" style="width:602px;height:auto" /></figure>
 <!-- /wp:image --></div>
-<!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Papildomos naudos"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
-<h2 class="wp-block-heading"><strong>Papildomos naudos</strong>:</h2>
+<h2 class="wp-block-heading"><strong>Papildomos naudos</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
@@ -190,16 +190,16 @@ https://www.youtube.com/watch?v=QAruG9QaUXg&amp;ab_channel=MedSchoolInsiders
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":279,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-23.png?w=512" alt="" class="wp-image-279"/></figure>
+<figure class="wp-block-image size-large"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-23.png?w=512" alt="" class="wp-image-279" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":273,"width":"306px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-18.png?w=512" alt="" class="wp-image-273" style="width:306px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.wordpress.com/wp-content/uploads/2024/05/image-18.png?w=512" alt="" class="wp-image-273" style="width:306px;height:auto" /></figure>
 <!-- /wp:image --></div>
-<!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:spacer {"height":"51px"} -->
-<div style="height:51px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div></div>
 <!-- /wp:cover -->
