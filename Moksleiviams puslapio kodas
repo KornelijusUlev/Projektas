@@ -1,5 +1,6 @@
-<!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg","id":166,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":1872,"minHeightUnit":"px","metadata":{"name":"Intro","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40);min-height:1872px"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-166" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg","id":166,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":1872,"minHeightUnit":"px","metadata":{"name":"Turinys","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40);min-height:1872px"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-166" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg-1.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Nuo ko pradėti ?"},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Nuo ko pradėti ? </h2>
 <!-- /wp:heading -->
@@ -27,7 +28,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Susipažinkite su karinės medicinos karjera</strong>: Supraskite, kas tai yra ir kokie įsipareigojimai tai reikalauja. Perskaitykite apie karo medikų atsakomybes ir galimybes.</li>
+<li><strong>Susipažinkite su karinės medicinos karjera</strong>: Supraskite, kas tai yra ir kokių įsipareigojimai. Perskaitykite apie karo medikų atsakomybes ir galimybes.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -35,11 +36,11 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Dalyvaukite karo medicinos susijusiose veiklose</strong>: Jei turite galimybę, dalyvaukite seminaruose, konferencijose ar kitose renginyse, susijusiose su karo medicina. Tai padės gilinti jūsų supratimą apie šią sritį.</li>
+<li><strong>Dalyvaukite karo medicinos susijusiose veiklose</strong>: Jei turite galimybę, dalyvaukite seminaruose, konferencijose ar kitose rengyniuose, susijusiose su karo medicina. Tai padės gilinti jūsų supratimą apie šią sritį.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Ruoškitės fiziniškai ir psichologiškai</strong>: Karo medicinos darbas gali būti fiziškai ir emociniškai išsekantis. Ruoškitės sportuodami ir praktikuodamiesi būti atspirties tašku sunkiuose momentuose.</li>
+<li><strong>Ruoškitės fiziškai ir psichologiškai</strong>: Karo medicinos darbas gali būti fiziškai ir emociškai išsekinti. Ruoškitės sportuodami ir praktikuodamiesi būti atspirties tašku sunkiuose momentuose.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -47,11 +48,12 @@
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- wp:spacer {"height":"71px"} -->
+<div style="height:71px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Kokias studijas reikia pabaigti norint būti karo mediku?"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Kokias studijas reikia pabaigti norint būti karo mediku?</h2>
 <!-- /wp:heading -->
@@ -78,10 +80,10 @@
 <figure class="wp-block-image size-large is-resized"><img src="https://projektask22390.files.wordpress.com/2024/05/vu.png?w=917" alt="" class="wp-image-101" style="width:272px;height:auto" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
-<!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div></div>
 <!-- /wp:cover -->
