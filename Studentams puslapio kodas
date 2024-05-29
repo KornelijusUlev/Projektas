@@ -1,5 +1,5 @@
-<!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg.jpg","id":160,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeightUnit":"vh","metadata":{"name":"Intro","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40)"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-160" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:cover {"url":"https://projektask22390.files.wordpress.com/2024/05/bg.jpg","id":160,"dimRatio":30,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeightUnit":"vh","metadata":{"name":"Turinys","categories":["featured","intro"],"patternName":"a8c/intro-fullwidth-content-with-background-image"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|40","right":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40)"><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-160" alt="" src="https://projektask22390.files.wordpress.com/2024/05/bg.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"name":"Kokią karjeros kryptį pasirinkti?"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Kokią karjeros kryptį pasirinkti?</h2>
 <!-- /wp:heading -->
@@ -71,7 +71,7 @@
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Į ką turėčiau atkreipti dėmesį?"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Į ką turėčiau atkreipti dėmesį?</h2>
 <!-- /wp:heading -->
@@ -121,7 +121,7 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Karo mediko pareigos ir atsakomybės"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:spacer {"height":"71px"} -->
 <div style="height:71px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
@@ -226,14 +226,14 @@
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator --></div>
-<!-- /wp:group -->
+<!-- /wp:separator -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Karo mediko sąlygos ir iššūkiai"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Karo mediko sąlygos ir iššūkiai</h2>
 <!-- /wp:heading -->
@@ -332,16 +332,12 @@ https://www.youtube.com/watch?v=5njia-HJA8M&amp;ab_channel=AARP
 </div></figure>
 <!-- /wp:embed -->
 
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-<!-- /wp:separator --></div>
-<!-- /wp:group -->
-
 <!-- wp:spacer {"height":"51px"} -->
 <div style="height:51px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Kas yra jaunesniųjų karininkų vadų mokymai?"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Kas yra jaunesniųjų karininkų vadų mokymai? </h2>
 <!-- /wp:heading -->
